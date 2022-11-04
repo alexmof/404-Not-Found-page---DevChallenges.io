@@ -1,0 +1,20 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 48px;
+    width: 100vw;
+}
+
+p {
+    width: 75vw;
+    font-size: 18px;
+}
+
+span {
+    width: 90vw;
+}
