@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://alexmof.github.io/)
-- GitHub [@your-username](https://github.com/alexmof)
+- Website [alexmof.github.io](https://alexmof.github.io/)
+- GitHub [@alexmof](https://github.com/alexmof)
 
