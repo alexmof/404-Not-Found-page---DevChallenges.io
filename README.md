@@ -38,13 +38,6 @@
 
 ![screenshot](https://github.com/alexmof/404-Not-Found-page---DevChallenges.io/blob/master/images/Screenshot%202022-11-04%20at%2017-25-23%20Not%20found.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
