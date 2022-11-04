@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="[https://{your-demo-link.your-domain}](https://stellar-eclair-f2dc75.netlify.app/)">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="[https://{your-url-to-the-solution}](https://github.com/alexmof/404-Not-Found-page---DevChallenges.io)">
       Solution
     </a>
     <span> | </span>
