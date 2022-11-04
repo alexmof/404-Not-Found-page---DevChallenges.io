@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](./images/Screenshot 2022-11-04 at 17-25-23 Not found)
+![screenshot]([./images/Screenshot 2022-11-04 at 17-25-23 Not found](https://github.com/alexmof/404-Not-Found-page---DevChallenges.io/blob/master/images/Screenshot%202022-11-04%20at%2017-25-23%20Not%20found.png))
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
