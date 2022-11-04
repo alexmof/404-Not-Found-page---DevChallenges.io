@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="[https://{your-demo-link.your-domain}](https://stellar-eclair-f2dc75.netlify.app/)">
+    <a href="https://stellar-eclair-f2dc75.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
+    <a href="https://github.com/alexmof/404-Not-Found-page---DevChallenges.io">
       Challenge
     </a>
   </h3>
